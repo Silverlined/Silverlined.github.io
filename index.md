@@ -1,1 +1,1 @@
-A home for poorly researched ideas that I find myself repeating a lot anyway.
+A home for reflection during Space Challenges 2021.
