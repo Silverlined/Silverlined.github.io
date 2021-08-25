@@ -10,6 +10,7 @@ One of the projects in this year's edition challenged the participants to build 
 
 ### Ground Station Requirements
 
+<img src="../res/diagram.png" alt="block diagram" width="700" height="200"> 
 
 #### Mission
 
