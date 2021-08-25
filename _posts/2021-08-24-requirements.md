@@ -23,7 +23,7 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
 4. The system shall be able to capture low power signals from cube satellites
 5. The system shall capture radio signals in the UHF frequency range
 
-#### Subsystems
+#### Subsystem
 
 1. A Raspberry Pi shall be used as a SatNOGS client
 2. A RTL2832U & R820T2 based SDR shall be used - e.g. Nooelec NESDR SMArt v4
