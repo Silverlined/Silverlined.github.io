@@ -10,7 +10,7 @@ One of the projects in this year's edition challenged the participants to build 
 
 ### Ground Station Requirements
 
-![block diagram](../res/diagram.png)
+<img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/diagram.png" alt="Block Diagram" width="700" height="200"> 
 
 #### Mission
 
