@@ -29,5 +29,21 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
 2. A RTL2832U & R820T2 based SDR shall be used - e.g. Nooelec NESDR SMArt v4
 3. A rotator should be build according to the SatNOGS Rotator v3 design
 4. A wide-band LNA should be used to improve signal reception - e.g. Nooelec LaNa
-5. A Yagi antenna should be build according to UHF specifications
+5. A Yagi antenna should be build according to the following specifications:
+	- Minimum frequency (MHz): 435 
+	- Maximum frequency (MHz): 438 
+	- Number of directors: 8 
+	- Optimized for frequency of 436.5MHz 
+	- Length of Reflector: 36.08cm 
+	- Driven element length: 34.36 cm (a folded dipole antenna has 4 times higher impedance compared to a non-folded dipole; for space applications lower impedance of 50ohms is preferred using a non-folded/linear dipole)
+	- Director length: 30.93 cm 
+	- Spacing between reflector and driven element: 17.18 cm 
+	- Spacing between driven element and director: 19.24 cm 
+	- Spacing between directors: 22.91 cm 
+	- Approximate gain: 16.6 dBi (-3dBi) 
+	- Length of boom: 2.1 m
+	- Balun: e.g. RG174 (Velocity of propagation Vc=0.66)
+	- Wavelength WL = 69cm
+	- L1 = 11.4cm
+	- L2 = 34.2cm
 
