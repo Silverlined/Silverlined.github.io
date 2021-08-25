@@ -23,6 +23,7 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
 4. The system shall be able to capture low power signals from cube satellites
 5. The system shall capture radio signals in the UHF frequency range
 6. The system shall support the 2GFSK modulation scheme
+7. The system shall provide a data platform that allows users to store satellite data and book timeslots for the ground station
 
 #### Subsystem
 
@@ -48,4 +49,12 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
 	- L1 = 11.4cm
 	- L2 = 34.2cm
 6. GNU Radio should be used to perform processing of the received signal
+7. A web platform should be build according to the following specifications:
+    - Python 3.9 shall be used as a programming language
+    - Django shall be used as a web framework
+    - SQLite3 shall be used as a database
+    - The web app should provide the following features:
+        - GS booking
+        - Authentication
+        - Remote command transmission
 
