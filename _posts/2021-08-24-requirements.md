@@ -22,6 +22,7 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
 3. The system shall track orbiting satellites with a rotator
 4. The system shall be able to capture low power signals from cube satellites
 5. The system shall capture radio signals in the UHF frequency range
+6. The system shall support the 2GFSK modulation scheme
 
 #### Subsystem
 
@@ -46,4 +47,5 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
 	- Wavelength WL = 69cm
 	- L1 = 11.4cm
 	- L2 = 34.2cm
+6. GNU Radio should be used to perform processing of the received signal
 
