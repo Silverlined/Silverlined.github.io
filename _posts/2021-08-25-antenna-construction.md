@@ -29,4 +29,4 @@ Yagi antennas play an important role  in  various  modern  wireless communicatio
 #### Results
 
 <img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/antenna-front.jpg" alt="antenna-front" width="400">
-<img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/atenna-top.jpg" alt="antenna-top" width="400">
+<img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/antenna-top.jpg" alt="antenna-top" width="400">
