@@ -1,4 +1,4 @@
-## Rotator Mini Prototype
+## Space Challenges - Rotator Maquette
 
 Pyorbital is used to compute orbital parameters from TLE files and provide a trajectory of Azimuth and Elevation angles for the rotator.
 The stepper motors are controlled via a microcontroller that receives commands from a Raspberry Pi over UART. 

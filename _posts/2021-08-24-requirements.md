@@ -1,4 +1,4 @@
-## Project Definition - Ground Station Squad
+## Space Challenges - Project Definition
 
 Theoretical knowledge gives you a deeper understanding of a concept through seeing it in the context of understanding the why behind it.
 Practical knowledge, on the other hand, can often lead to a deeper understanding of a concept through the act of personal experience.

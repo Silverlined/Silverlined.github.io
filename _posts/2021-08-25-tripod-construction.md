@@ -1,4 +1,4 @@
-## Tripod Construction
+## Space Challenges - Tripod Construction
 
 The design of SatNOGS Rotator allows for 2D rotation around X and Y axis. In order to use the full functionality, the rotator has to mounted onto a tripod.
 
