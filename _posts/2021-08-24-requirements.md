@@ -60,3 +60,5 @@ Successful reception of data from EnduroSat's QMR-KWT satellite via a SatNOGS gr
         - Authentication
         - Remote command transmission
 
+
+<img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/air_ground.png" alt="Block Diagram" width="700" height="200"> 
