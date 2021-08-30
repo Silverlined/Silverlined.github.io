@@ -45,6 +45,25 @@ Gain = round( 100 * G * ( N + 2 ) ) / 100
 print(f'Optimized for frequency of {f}MHz\nLength of Reflector: {R}cm\nDriven element length: {A} cm\nDirector length: {D} cm\nSpacing between Reflector and Driven element: {RA} cm\nSpacing between Driven element and Director: {AD} cm\nSpacing between Directors: {DD} cm\nApproximate gain: {Gain} dBi\nLength of Boom: {B} m')
 ```
 
+### Design
+
+- Minimum frequency (MHz): 435 
+	- Maximum frequency (MHz): 438 
+	- Number of directors: 8 
+	- Optimized for frequency of 436.5MHz 
+	- Length of Reflector: 36.08cm 
+	- Driven element length: 34.36 cm (a folded dipole antenna has 4 times higher impedance compared to a non-folded dipole; for space applications lower impedance of 50ohms is preferred using a non-folded/linear dipole)
+	- Director length: 30.93 cm 
+	- Spacing between reflector and driven element: 17.18 cm 
+	- Spacing between driven element and director: 19.24 cm 
+	- Spacing between directors: 22.91 cm 
+	- Approximate gain: 16.6 dBi (-3dBi) 
+	- Length of boom: 2.1 m
+	- Balun: e.g. RG174 (Velocity of propagation Vc=0.66)
+	- Wavelength WL = 69cm
+	- L1 = 11.4cm
+	- L2 = 34.2cm
+
 #### Results
 
 <img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/antenna-front.jpg" alt="antenna-front" width="400">
