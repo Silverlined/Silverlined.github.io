@@ -10,6 +10,7 @@ The design of SatNOGS Rotator allows for 2D rotation around X and Y axis. In ord
 |:----------------------------------:|:---:|:---------------:|:-----:|
 | Wooden Lath (64 cm)                |  3  |       PCE       |       |
 | Wooden Lath (11x3x2 cm)            |  2  |       PCE       |       |
+| Wooden Lath (40x5x2 cm)            |  3  |       PCE       |       |
 | Wooden Lath (4x3x2 cm)             |  2  |       PCE       |       |
 | Wooden Equilateral triangle (10cm) |  1  |       PCE       |       |
 | Wooden Plank (17x23 cm)            |  1  |       PCE       |       |
