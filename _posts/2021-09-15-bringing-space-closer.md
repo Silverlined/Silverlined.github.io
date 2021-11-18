@@ -12,7 +12,6 @@ I found the answers for myself during Space Challenges 2021, where I was one of 
 There's not more I can say other than that I am thankful to EnduroSat for giving me chance to join them in this unique educational program.
 Hopefully as the team envisions the program and the outcome of it will evolve in something truly remarkable in the following years.                                                
 (You really know you have met the right people just by the look in their eyes.)
-
 ---
 
 ### Chapter
