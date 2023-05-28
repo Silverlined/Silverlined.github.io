@@ -1,3 +1,9 @@
+---
+layout: post
+type: sc2021
+author: Vili Kabadzhova
+---
+
 ## Space Challenges 2021 - Week 1
 
 ### August, 16

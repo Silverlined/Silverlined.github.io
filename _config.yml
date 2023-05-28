@@ -1,5 +1,5 @@
 title: "Late Night Chocolate"
-author: "Aleksander, Anton, Dimitar, Dimitriy, Vladimir, Ivaylo, Violeta"
+author: "Dimitriy Georgiev"
 description: "The space cades' guide to building a badass ground station." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -19,6 +19,7 @@ github_username: "Silverlined"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
+future: true
 
 rss: rss
 
@@ -35,8 +36,9 @@ titles_from_headings:
   collections: true
 
 defaults:
-  - scope:
-      path: ""
-      type: post
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
     values:
-      tags: Other
+      tags: "SpaceChallenges"

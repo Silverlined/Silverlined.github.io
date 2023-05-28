@@ -1,3 +1,6 @@
+---
+author: Dimitriy Georgiev
+---
 ## Space Challenges - Project Definition
 
 Theoretical knowledge gives you a deeper understanding of a concept through seeing it in the context of understanding the why behind it.

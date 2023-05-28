@@ -1,17 +1,6 @@
-## Title
-
-Introduction
-
 ---
-
-### Chapter
-
-#### Sub Chapter
-
-```
-
-```
-
-#### Conclusion
-
-
+layout: post
+author: Name
+---
+## Title
+...
