@@ -1,8 +1,9 @@
+---
+author: Dimitriy Georgiev
+---
 ## Space Challenges - Tripod Construction
 
 The design of SatNOGS Rotator allows for 2D rotation around X and Y axis. In order to use the full functionality, the rotator has to mounted onto a tripod.
-
----
 
 ### Materials
 
@@ -19,14 +20,9 @@ The design of SatNOGS Rotator allows for 2D rotation around X and Y axis. In ord
 | Washers M6                         |  4  |       PCE       |       |
 | Threaded Rod M6 (~15cm)            |  2  |       PCE       |       |
 
+### Assembly
 
-### Procedure
+Side-View                  |  Top-View
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/tripod-front.jpg)  |  ![](https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/tripod-top.jpg)
 
-```
-
-```
-
-#### Results
-
-<img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/tripod-front.jpg" alt="tripod-front" width="400">
-<img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/tripod-top.jpg" alt="tripod-top" width="400">

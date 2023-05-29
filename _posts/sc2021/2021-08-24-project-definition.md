@@ -9,8 +9,6 @@ Practical knowledge, on the other hand, can often lead to a deeper understanding
 The Space Challenges' program is structured in a way that combines both and allows the participants to perform at an exceptional level.
 One of the projects in this year's edition challenged the participants to build a fully functional ground station and establish successful signal reception from one of EnduroSat's satellites.
 
----
-
 ### Ground Station Requirements
 
 <img src="https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/diagram.png" alt="Block Diagram" width="700" height="200"> 

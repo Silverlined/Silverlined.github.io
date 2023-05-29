@@ -1,6 +1,6 @@
 title: "Late Night Chocolate"
 author: "Dimitriy Georgiev"
-description: "The space cades' guide to building a badass ground station." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "Gateway" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -35,10 +35,20 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+collections:
+  space_challenges:
+    output: true
+
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_posts/*.md" # an empty string here means all files in the project
       type: "posts"
     values:
+      layout: "post"
+  -
+    scope:
+      path: "_posts/sc2021/*"
+    values:
+      layout: "post"
       tags: "SpaceChallenges"

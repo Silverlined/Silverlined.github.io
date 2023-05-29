@@ -41,9 +41,9 @@ Yagi-Uda antennas have gained popularity among radio amateurs for several reason
 | SMA Coaxial Connector Plug          |  1  |       PCE       |                     |
 | Electrical Insulation Tape          |  1  |       PCE       |                     |
 
-### Results
+## Assembly
 
-A             |  B
+Side-View                  |  Back-View
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/antenna-front.jpg)  |  ![](https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/antenna-top.jpg)
 
