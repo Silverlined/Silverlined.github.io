@@ -1,5 +1,6 @@
 ---
 author: unknown
+sitemap: false
 ---
 ## ELI5: Wavelet Transform
 
