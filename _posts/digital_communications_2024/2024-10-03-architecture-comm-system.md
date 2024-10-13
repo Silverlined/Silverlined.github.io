@@ -7,10 +7,10 @@ author: Dimitriy Georgiev
 
 ### High-Level Diagram
 - **Overview**: A communication system transforms data from the source to the sink through layered processing stages.
-- **Key Components**: Highlighted in a top-down system architecture:  
-  Data Source → Source Encoder → Channel Encoder → Line Encoder → Modulator → Channel → Demodulator → Channel Decoder → Source Decoder → Data Sink.
 
-## Detailed Component Breakdown
+![Architecture of a Communication System](https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/arch-comm-system.drawio.svg)
+
+## Component Breakdown
 
 ### Data Source
 - **Definition**: The origin where data originates, constituting raw input for the communication system.
@@ -79,9 +79,6 @@ author: Dimitriy Georgiev
 - **Definition**: The final destination of processed data.
 - **Examples**: Monitors, speakers, and storage devices where the information is displayed or permanently stored.
 
-Display res/arch-comm-system.drawio.svg on the following line
-![Architecture of a Communication System](https://raw.githubusercontent.com/Silverlined/silverlined.github.io/main/res/arch-comm-system.drawio.svg)
-
 ## Case Study: Practical Radio Communication System
 
 ### Real-World System Example: DVB-S2
@@ -97,10 +94,3 @@ Display res/arch-comm-system.drawio.svg on the following line
   - **Superheterodyne**: Uses intermediate frequencies for better selectivity and sensitivity.
   - **Direct Conversion**: Converts down to baseband directly, offering simplicity but with potential issues like DC offsets.
 - **Contemporary Digital Receivers**: Integrated solutions using DSP for flexible and adaptive signal processing.
-
-### Recommended Reading
-For further understanding, refer to:
-- **"Digital Communication" by John R. Barry, Edward A. Lee, and David G. Messerschmitt** – Provides a comprehensive overview of digital communication system design.
-- **"Fundamentals of Wireless Communication" by David Tse and Pramod Viswanath** – Explores modern wireless communication technologies and design principles. 
-
-These materials will furnish detailed insights into the complexity and functionality of modern communication systems.
